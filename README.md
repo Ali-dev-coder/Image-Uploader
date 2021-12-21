@@ -1,5 +1,9 @@
 # Image-Uploader
-All my Django Personal Projects source Code
+
+Learning through this Project:
+
+media files configuration in "settings.py" file
+
 
 Image Uploader Is simple projects 
 
